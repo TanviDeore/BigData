@@ -68,34 +68,12 @@ Unlike collaborative filtering, this system recommends based on the *words and c
 
 #### 🧾 Example Output
 **Single term Query:** `iron`
------------------------------------------------------------------
-Rank | Movie Title                               | TF-IDF score
------------------------------------------------------------------
-1    | Kid with the Golden Arm                 | 110.8784
-2    | The Adventure of Iron Pussy             | 91.5952
-3    | Iron Monkey                             | 91.5952
-4    | Iron Invader                            | 91.5952
-5    | Iron Monkey                             | 81.9536
-6    | Pokémon 4Ever                           | 43.3872
-7    | Princess Mononoke                       | 43.3872
-8    | Old Rockin' Chair Tom                   | 33.7456
-9    | Next Avengers: Heroes of Tomorrow       | 28.9248
-10   | The Man in the Iron Mask                | 28.9248
+<img width="789" height="335" alt="image" src="https://github.com/user-attachments/assets/9e478834-4c03-4c50-9eec-8530fcde0b2f" />
+
 
 **Multi term Query:** `mystery with detectives and investigation`
------------------------------------------------------------------
-Rank | Movie Title                               | Cosine Similarity
------------------------------------------------------------------
-1    | Mystery Team                            | 0.3064
-2    | The Blue Mansion                        | 0.2747
-3    | I Thought About You                     | 0.2668
-4    | The Tigers                              | 0.2253
-5    | Jigsaw                                  | 0.2164
-6    | Mataharis                               | 0.1975
-7    | Sahasram                                | 0.1892
-8    | The Shadow                              | 0.1889
-9    | Accused                                 | 0.1869
-10   | The Dead Talk Back                      | 0.1842
+<img width="832" height="357" alt="image" src="https://github.com/user-attachments/assets/6523b500-6d97-4f58-bc9b-0b831722946d" />
+
 
 #### 🧠 Key Learnings
 - Implemented **TF-IDF** and **cosine similarity** manually using PySpark  
