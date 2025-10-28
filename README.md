@@ -1,7 +1,7 @@
 # 🚀 Big Data Projects Portfolio
 
 This repository showcases a collection of **Big Data and Distributed Computing** projects implemented using **Apache Spark**, **Hadoop MapReduce**, and **Python**.  
-Each project demonstrates scalable data processing, analytics, and machine learning techniques — reflecting strong skills in **data engineering**, **Spark programming**, and **information retrieval**.
+Each project demonstrates scalable data processing, analytics, and machine learning techniques — reflecting strong skills in **data engineering**, **pySpark programming**, and **information retrieval**.
 
 ---
 
