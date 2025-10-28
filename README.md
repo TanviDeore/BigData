@@ -41,11 +41,6 @@ Highest first 10 occuring Named-Entities
  ('Laurence', 93),
  ('Brooke', 91),
  ('Bhaer', 90)]
-
- 
-#### 📁 Folder
-[`/NER_PySpark_SpaCy`](./NER_PySpark_SpaCy)
-
 ---
 
 ### 🎬 2. Movie Recommendation System using PySpark (TF–IDF + Cosine Similarity)
