@@ -67,7 +67,7 @@ Unlike collaborative filtering, this system recommends based on the *words and c
 - **Math (Cosine Similarity)** – Ranking movie relevance  
 
 #### 🧾 Example Output
-**Single term Query:** `iron`
+**Single term Query:** `iron`  
 <img width="789" height="335" alt="image" src="https://github.com/user-attachments/assets/9e478834-4c03-4c50-9eec-8530fcde0b2f" />
 
 
